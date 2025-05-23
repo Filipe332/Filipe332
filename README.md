@@ -27,10 +27,6 @@
 - 📋 **Metodologias:** Kanban, documentação de projetos, versionamento  
 - 🔄 **Controle de Versão:** Git, GitHub  
 
-## 📈 GitHub Stats
-
-![Filipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=Filipe332&show_icons=true&theme=dark)
-
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/filipe-silva-595802260/)
